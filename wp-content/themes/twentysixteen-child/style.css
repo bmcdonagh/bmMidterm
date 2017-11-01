@@ -1,0 +1,18 @@
+/*
+Theme Name: Twenty Sixteen Child 
+Theme URI: http://example.com/twenty-sixteen-child/
+Description: Twenty Sixteen Child Theme
+Author: Brenna M.
+Author URI: http://example.com
+Template: twentysixteen
+Version: 1.0.0]
+License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain: twentysixteen-child
+/*
+
+/*removes powered by wordpress*/
+
+.site-info {
+    display : none;
+}
